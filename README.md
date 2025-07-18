@@ -24,7 +24,7 @@
 
 I'm a passionate and driven software engineering undergraduate with a strong foundation in full-stack web and mobile application development. I thrive on crafting elegant, scalable solutions and love exploring cutting-edge tech.
 
-🚀 Currently an **Intern Software Engineer @ Expernetic Pvt. Ltd**, delivering full-stack applications in React, .NET, and SQL.  
+🚀 Worked as an **Intern Software Engineer @ Expernetic Pvt. Ltd**, delivering full-stack applications in React, .NET, and SQL.  
 
 💡 Believer in **technology that empowers people**, especially through assistive solutions and inclusive design.
 
